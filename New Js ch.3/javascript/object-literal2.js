@@ -1,5 +1,5 @@
 var hotel = {
-  name: 'Park',
+  name: 'Kamden',
   rooms: 120,
   booked: 77,
   checkAvailablity: function() {
